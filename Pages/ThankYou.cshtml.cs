@@ -5,16 +5,16 @@ namespace ProvaOtes09.Pages
 {
     public class ThankYouModel : PageModel
     {
-        [FromQuery]
+        [FromForm]
         public string FirstName { get; set; }
 
-        [FromQuery]
+        [FromForm]
         public string LastName { get; set; }
 
-        [FromQuery]
+        [FromForm]
         public string Email { get; set; }
 
-        [FromQuery]
+        [FromForm]
         public string PhoneNumber { get; set; }
 
         public void OnGet()
