@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaOtes09", "ProvaOtes09.csproj", "{857E76E3-E4A6-46A0-BA95-3BD8E5BBBD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{857E76E3-E4A6-46A0-BA95-3BD8E5BBBD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857E76E3-E4A6-46A0-BA95-3BD8E5BBBD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857E76E3-E4A6-46A0-BA95-3BD8E5BBBD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857E76E3-E4A6-46A0-BA95-3BD8E5BBBD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1065A7-5491-4BF2-A7D8-AEBE483023A8}
+	EndGlobalSection
+EndGlobal
